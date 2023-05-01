@@ -4,7 +4,7 @@ This is a simple todo list application UI created using HTML, Font Awesome, Goog
 
 ## Demo
 
-You can see a live demo of the application [here](https://example.com/todo-list).
+You can see a live demo of the application [here](https://fredvuni.github.io/todo-ui/).
 
 ## Installation
 
