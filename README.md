@@ -21,6 +21,11 @@ This application relies on the following libraries:
 
 There are no functionalities yet
 
+## screenshot
+
+![image](https://user-images.githubusercontent.com/41730664/235414886-4fe182a7-5f3f-427e-9737-7ff7a59fb444.png)
+
+
 ## Customization
 
 If you want to customize the application, you can modify the CSS styles in the `style.css` file. You can also change the font family by modifying the `font-family` property in the CSS.
